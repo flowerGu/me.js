@@ -1,6 +1,6 @@
 /**
  * @description 存储相关
- * @author 应雨加
+ * @author 
  * @time 2016/03/29
  */
 
